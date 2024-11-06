@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ko5LmJKU4RLFuYoN4SCk+nw1S/M1N6a5zSADpHnobh2BB8iLy4j0jZ23I106sp0uykaVNQbEcinTQysTLEUncg==",
+  "success": true,
+  "projectFilePath": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\ImageDisplayApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\E\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

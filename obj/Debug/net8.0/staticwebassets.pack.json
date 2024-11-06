@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Construction_Cats1.jpg"
+    },
+    {
+      "Id": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Construction_Cats2.jpg"
+    },
+    {
+      "Id": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Construction_Cats3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ImageDisplayApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ImageDisplayApp.props",
+      "PackagePath": "build\\ImageDisplayApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageDisplayApp.props",
+      "PackagePath": "buildMultiTargeting\\ImageDisplayApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImageDisplayApp.props",
+      "PackagePath": "buildTransitive\\ImageDisplayApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

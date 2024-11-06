@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "F2IZrgCyDO4EXFb/vRhLgG/AI8INrsaUzyGr/hqnAtM=",
+  "Source": "ImageDisplayApp",
+  "BasePath": "_content/ImageDisplayApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ImageDisplayApp\\wwwroot",
+      "Source": "ImageDisplayApp",
+      "ContentRoot": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\",
+      "BasePath": "_content/ImageDisplayApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats1.jpg",
+      "SourceId": "ImageDisplayApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\",
+      "BasePath": "_content/ImageDisplayApp",
+      "RelativePath": "Images/Construction_Cats1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Construction_Cats1.jpg"
+    },
+    {
+      "Identity": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats2.jpg",
+      "SourceId": "ImageDisplayApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\",
+      "BasePath": "_content/ImageDisplayApp",
+      "RelativePath": "Images/Construction_Cats2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Construction_Cats2.jpg"
+    },
+    {
+      "Identity": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\Images\\Construction_Cats3.jpg",
+      "SourceId": "ImageDisplayApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\YourWork\\DLI\\Projects\\ImageExample\\ImageDisplayApp\\wwwroot\\",
+      "BasePath": "_content/ImageDisplayApp",
+      "RelativePath": "Images/Construction_Cats3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Construction_Cats3.jpg"
+    }
+  ]
+}
